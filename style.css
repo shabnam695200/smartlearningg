@@ -1,0 +1,649 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.logo {
+    width: 9vw;
+    height: 9vw;
+    margin-top: 1vw;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 12vw;
+    /* background-color: #0a111f; */
+    background-color: #08101d;
+    height: 5.4vw;
+    padding-top: 3vw;
+}
+
+div .art {
+    margin-bottom: 0.6vw;
+    margin-left: 0.3vw;
+}
+
+div .giris {
+    padding: 0.8vw 2vw;
+    background: #3A68B8;
+    margin-right: 15.5vw;
+    border-radius: 0.4vw;
+}
+
+nav {
+    margin-right: 10.1vw;
+    word-spacing: 1.5vw;
+    font-weight: 500;
+}
+
+div a {
+    color: #fff;
+}
+
+section {
+    background-color: #08101d;
+    padding-top: 1px;
+    /* height: 65vw; */
+}
+
+.introduction .intro-left-side h4 {
+    color: #3A68B8;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 4vw;
+    margin-bottom: -2.02vw;
+}
+
+.introduction .intro-left-side h1 {
+    margin-top: 7px;
+    color: #fff;
+    font-size: 55px;
+}
+
+.introduction .intro-left-side p {
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;
+    opacity: 70%;
+}
+
+section .intro-left-side {
+    justify-content: space-between;
+    display: flex;
+    margin-top: 13vw;
+    margin-left: 10vw;
+}
+
+div .watch img {
+    width: 0.9vw;
+    height: 0.9vw;
+}
+
+div .watch {
+    margin-top: 5.4vw;
+}
+
+div .watch .start {
+    padding: 1.4vw 2.7vw;
+    background: #3A68B8;
+    border-radius: 5px;
+}
+
+div .watch .Video {
+    padding: 1.4vw 2.7vw;
+    background: #3A68B8;
+    margin-left: 1.7vw;
+    border-radius: 5px;
+
+}
+
+div .intro-right-side img {
+    margin-right: 5vw;
+    width: 42.7vw;
+    height: 42.7vw;
+    margin-top: -10.4vw;
+}
+
+div .logos {
+    display: flex;
+    margin-top: -1vw;
+    justify-content: space-around;
+}
+
+div .logos img {
+    width: 20vw;
+    height: 20vw;
+}
+
+.matrix {
+    width: 18vw;
+    height: 18vw;
+}
+
+div .data {
+    background-color: #08101d;
+    /* height: 110.7vw; */
+}
+
+div .data-science {
+    display: flex;
+}
+
+div .learn-more {
+    width: 100%;
+    margin-top: 15.25vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div .learn-more h1 {
+    color: #fff;
+    font-size: 45px;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+
+.learn-more p {
+    color: #fff;
+    opacity: 70%;
+    text-align: center;
+    width: 50vw;
+}
+
+.learn-more a {
+    padding: 1vw 1.7vw;
+    background: #3A68B8;
+    border-radius: 5px;
+    margin-left: 0vw;
+}
+
+.learn-more .button {
+    margin-top: 3.7vw;
+    justify-content: center;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    font-size: 10px;
+    margin-top: 10.8vw;
+    margin-left: 1.7vw;
+    text-align: center;
+}
+
+.card h1 {
+    color: #fff;
+    opacity: 70%;
+}
+
+.card p {
+    color: #fff;
+    opacity: 70%;
+}
+
+.card img {
+    width: 4.7vw;
+    height: 5.4vw;
+}
+
+.card {
+    border: 1px solid #171f2b;
+    padding: 0.7vw;
+    margin: 1.6vw;
+    background: #171f2b;
+}
+
+.solutions h1 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.solutions p {
+    color: #fff;
+    opacity: 70%;
+    font-size: 16px;
+    width: 100%;
+    text-wrap: wrap;
+}
+
+.solutions {
+    display: flex;
+    padding-left: 16.9vw;
+    margin-top: 15.1vw;
+
+}
+
+.solutionsP {
+    width: 30vw;
+    margin: 0 auto;
+}
+
+.solutions img {
+    width: 32.2vw;
+    height: 30.4vw;
+}
+
+.communication {
+    width: 90%;
+    display: flex;
+    color: #fff;
+    justify-content: space-around;
+}
+
+.footer-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 1vw;
+    margin-top: 5vw;
+    gap: 8vw;
+    line-height: 1.5vw;
+}
+
+footer {
+    padding-top: 1vw;
+    height: 40vw;
+    background: #171f2b;
+}
+
+.info h5 {
+    color: #fff;
+    margin-left: 1vw;
+}
+
+.call h5 {
+    color: #fff;
+    margin-left: 1vw;
+}
+
+.location h5 {
+    color: #fff;
+    margin-left: 1vw;
+}
+
+.info {
+    margin-top: 1vw;
+    display: flex;
+}
+
+.call {
+    margin-top: 1vw;
+    display: flex;
+}
+
+.location {
+    margin-top: 1vw;
+    display: flex;
+}
+
+#imgg {
+    margin-top: 1vw;
+}
+
+.footer-cards h3 {
+    text-transform: uppercase;
+}
+
+.footer-cards p {
+    opacity: 60%;
+}
+
+.communication article {
+    color: #fff;
+    opacity: 60%;
+    font-size: 14px;
+}
+
+.footerlogo {
+    width: 6vw;
+    height: 6vw;
+}
+
+
+@media screen and (min-width: 991px) and (max-width: 1025px) {
+    div .logos {
+        margin-top: 5vw;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 991px) {
+
+    .solutionsP {
+        display: block;
+        width: 60vw;
+        margin: 0 auto;
+    }
+
+    div .intro-right-side img {
+
+        display: none;
+    }
+
+    div .logos {
+        display: none;
+
+    }
+
+    .matrix {
+        width: 18vw;
+        height: 18vw;
+    }
+
+    .logo {
+        margin-top: 2vw;
+    }
+
+    nav {
+        margin-top: 2vw;
+    }
+
+    .giris {
+        margin-top: 2vw;
+    }
+
+    header {
+        padding-left: 7vw;
+    }
+
+    div .learn-more {
+        margin-top: 25vw;
+    }
+
+    .learn-more .button {
+        align-items: center;
+    }
+
+    div .data {
+        background-color: #08101d;
+        /* height: 180.7vw; */
+    }
+
+    .clients {
+        display: none;
+    }
+
+    .solutions {
+        padding-left: 12vw;
+    }
+
+    .footer-cards {
+        margin-top: 5vw;
+        gap: 4vw;
+        line-height: 100%;
+        font-size: 12px;
+    }
+
+    .communication {
+        font-size: 13px;
+    }
+
+    footer {
+        padding-top: 5vw;
+    }
+
+    .cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        font-size: 10px;
+        margin-top: 11.8vw;
+        margin: auto;
+        text-align: center;
+    }
+
+}
+
+@media screen and (min-width: 790px) and (max-width: 991px) {
+    .footer-cards {
+        font-size: 15px;
+    }
+
+    .communication {
+        font-size: 14px;
+    }
+}
+
+
+@media screen and (min-width: 300px) and (max-width: 600px) {
+    div .intro-right-side img {
+
+        display: none;
+    }
+
+    div .logos {
+        display: none;
+
+    }
+
+    .clients {
+        display: none;
+    }
+
+    .introduction .intro-left-side h1 {
+        margin-top: 7px;
+        color: #fff;
+        font-size: 40px;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+
+    header {
+        flex-direction: column;
+        align-items: center;
+        padding-left: 0;
+        height: auto;
+        padding: 1vw;
+    }
+
+    .logo {
+        width: 20vw;
+        height: auto;
+        margin-top: 1vw;
+    }
+
+    nav {
+        margin: 1vw 0;
+        word-spacing: 1vw;
+        font-size: 12px;
+    }
+
+    .giris {
+        padding: 0.6vw 1.5vw;
+        margin-right: 0;
+        border-radius: 0.3vw;
+    }
+
+    section {
+        padding: 1vw;
+    }
+
+    .introduction .intro-left-side {
+        margin-top: 5vw;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .introduction .intro-left-side h1 {
+        font-size: 25px;
+    }
+
+    .introduction .intro-left-side p {
+        font-size: 12px;
+    }
+
+    .intro-right-side {
+        display: none;
+    }
+
+    .logos {
+        display: none;
+    }
+
+    .learn-more {
+        width: 90%;
+        margin-top: 10vw;
+        align-items: center;
+    }
+
+    .learn-more h1 {
+        font-size: 28px;
+    }
+
+    .learn-more p {
+        font-size: 12px;
+    }
+
+    .learn-more .button {
+        align-items: center;
+    }
+
+    .cards {
+        grid-template-columns: 1fr;
+        font-size: 8px;
+        margin-top: 5vw;
+        text-align: center;
+    }
+
+    .card {
+        margin: 2vw auto;
+        width: 90%;
+    }
+
+    .solutions {
+        flex-direction: column;
+        align-items: center;
+        padding-left: 0;
+        margin-top: 10vw;
+    }
+
+    .solutions .text {
+        text-align: center;
+        margin-bottom: 5vw;
+    }
+
+    .solutions img {
+        width: 90%;
+        height: auto;
+    }
+
+    footer {
+        padding: 5vw 1vw;
+        height: auto;
+    }
+
+    .communication {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+display: block;
+margin: 0 auto;
+    }
+
+    .footer-cards {
+        flex-direction: column;
+        gap: 3vw;
+        margin-top: 5vw;
+        line-height: 1.2;
+    }
+
+    .solutions h1 {
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    .footer-cards h3 {
+        margin-bottom: 2vw;
+    }
+
+    .info,
+    .call,
+    .location {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .info h5,
+    .call h5,
+    .location h5 {
+        margin-left: 0;
+    }
+
+    .footerlogo {
+        width: 15vw;
+        height: auto;
+    }
+
+    .intro-left-side {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .intro-left-side h4 {
+        font-size: 16px;
+    }
+
+    .intro-left-side h1 {
+        font-size: 24px;
+    }
+
+    .intro-left-side p {
+        font-size: 14px;
+    }
+
+    .watch .start,
+    .watch .Video {
+        font-size: 14px;
+        padding: 1vw 2vw;
+    }
+
+    .watch {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .watch .Video {
+        margin-left: 0;
+        margin-top: 2vw;
+    }
+
+    div .learn-more h1 {
+        color: #fff;
+        font-size: 30px;
+        margin-bottom: 3vw;
+        text-align: center;
+    }
+
+    .solutionsP {
+        width: 70vw;
+        margin: 0 auto;
+    }
+
+    .giris{
+position: absolute;
+top:3vw;
+right:0vw;
+    }
+
+    nav{
+        display: none;
+    }
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="az">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kurs Təqdimatı</title>
+  <link rel="stylesheet" href="services.css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="search">
+      <input type="text" id="searchBarValue" class="searchTerm" placeholder="What are you looking for?">
+      <button type="submit" class="searchButton">
+        <i class="fa fa-search"></i>
+      </button>
+    </div>
+  </div>
+  <div class="order">
+    <p id="nameOrder">Name</p>
+    <p id="priceOrder">Price</p>
+    <select class="form-select" id="typeSelect">
+      <option selected>Select</option>
+      <option value="english">English</option>
+      <option value="Fullstack">FullStack</option>
+      <option value="IT Helpdesk">Helpdesk</option>
+      <option value="Backend">Backend</option>
+      <option value="SMM">SMM</option>
+      <option value="Network">Network</option>
+      <option value="Sistem">Sistem</option>
+
+    </select>
+  </div>
+  <div id="courses-container"></div>
+  <button id="load-more" style="display: block;margin: 0 auto; margin-top: 3vw;" class="btn btn-info">Load more</button>
+  <script src="services.js"></script>
+
+</body>
+
+</html>

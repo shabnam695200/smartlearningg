@@ -1,0 +1,2753 @@
+  [
+    {
+        "profile_picture": {
+        "url": "https://img.freepik.com/free-vector/hand-drawn-english-book-background_23-2149483336.jpg?t=st=1717848272~exp=1717851872~hmac=692ccd28e5360d16bb937a14a65876e6d7d153cba86010af8995bd71274274b2&w=740"},
+        "name": "Edulance",
+        "city": "Baku",
+        "price": "100-150",
+        "course-type":"english",
+        "gmail":"edulance@gmail.com",
+        "phone-number":"070-985-13-05"
+        
+    } ,
+
+    {
+      "profile_picture": {
+      "url": "https://img.freepik.com/free-vector/flat-design-english-school-logo-design_23-2149483335.jpg?t=st=1717848368~exp=1717851968~hmac=638c897664709e8d404f5c102c9ec87fc598d980c0d5faee98183a901dba3acc&w=740"},
+      "name": "English-general",
+      "city": "Baku",
+      "price": "90",
+      "course-type":"english",
+      "gmail":"edulance@gmail.com",
+        "phone-number":"070-985-13-05"
+      
+  } ,
+
+  {
+    "profile_picture": {
+    "url": "https://img.freepik.com/premium-vector/flat-design-english-school-logo-design_23-2149483333.jpg?w=740"},
+    "name": "bridge academy",
+    "city": "Baku",
+    "price": "100",
+    "course-type":"english",
+    "gmail":"edulance@gmail.com",
+    "phone-number":"070-985-13-05"
+    
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/flat-design-english-logo-design_23-2149512646.jpg?t=st=1717848729~exp=1717852329~hmac=c4ab81b8830e54ff99c8b696a515039320ba8208d71086850a050ef4ad2a930a&w=740"},
+  "name": "Englishtrain",
+  "city": "sumgait",
+  "price": "95",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+  
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/flat-design-english-school-logo-template_23-2149487412.jpg?t=st=1717848767~exp=1717852367~hmac=6e2553a005cf05a7c1bd91ebebf45ded7783c7f589524af7f0daf649b9bff496&w=740"},
+  "name": "BFC",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+  
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/top-view-hands-holding-english-book_52683-86030.jpg?t=st=1717848909~exp=1717852509~hmac=a29822dd6ff1d57a9221a588e3fb744589df70f394194ae5a4f6c2a496f079e3&w=360"},
+  "name": "JalaEdu",
+  "city": "Sumgait",
+  "price": "100-150",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+  
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/hand-drawn-english-school-illustration_23-2149491656.jpg?t=st=1717848945~exp=1717852545~hmac=acfcdc330ebd3818252532d556dafcc9bdf53cca7d4464457552ff082ae3f0b8&w=740"},
+  "name": "Balance",
+  "city": "Baku",
+  "price": "55",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+  
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/english-book-illustration-design_23-2149501743.jpg?t=st=1717848991~exp=1717852591~hmac=abccc135074ec8811cf2adde09b232338721c4edd0b20c00e6e3e1f3b50d6214&w=740"},
+  "name": "IELTS",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+  
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/hand-drawn-english-school-illustration-design_23-2149509022.jpg?t=st=1717849048~exp=1717852648~hmac=dc677fee223fdefb1040ede0e0d5c0513e0e89bed9fc1458daae0c7dd45527d7&w=740"},
+  "name": "Barratson",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+  
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/english-book-illustration-design_23-2149509019.jpg?t=st=1717849077~exp=1717852677~hmac=6e835c0f38b60561dea9825285f9585837289765c0adcb2356c551415667cc09&w=740"},
+  "name": "Baratson2",
+  "city": "Sumgait",
+  "price": "200",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+  
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/flat-design-english-school-illustration_23-2149483505.jpg?t=st=1717849110~exp=1717852710~hmac=1e7a2c42d4f641fd00a6f20c79a57ffdbcf75504f57793761c3ab1af63118ee2&w=740"},
+  "name": "Smart Academy",
+  "city": "Baku",
+  "price": "110",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+  
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/english-book-illustration-design_23-2149509019.jpg?t=st=1717849077~exp=1717852677~hmac=6e835c0f38b60561dea9825285f9585837289765c0adcb2356c551415667cc09&w=740"},
+  "name": "IELTS",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+  
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/flat-design-english-school-illustration_23-2149483505.jpg?t=st=1717849110~exp=1717852710~hmac=1e7a2c42d4f641fd00a6f20c79a57ffdbcf75504f57793761c3ab1af63118ee2&w=740"},
+  "name": "Edulance",
+  "city": "Baku",
+  "price": "100-150",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+  
+} ,
+
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-photo/top-view-hands-holding-english-book_52683-86030.jpg?t=st=1717848909~exp=1717852509~hmac=a29822dd6ff1d57a9221a588e3fb744589df70f394194ae5a4f6c2a496f079e3&w=360"},
+"name": "English-general",
+"city": "Baku",
+"price": "90",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+
+} ,
+
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/hand-drawn-english-school-illustration_23-2149491656.jpg?t=st=1717848945~exp=1717852545~hmac=acfcdc330ebd3818252532d556dafcc9bdf53cca7d4464457552ff082ae3f0b8&w=740"},
+"name": "bridge academy",
+"city": "Baku",
+"price": "100",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/premium-vector/flat-design-english-school-logo-design_23-2149483333.jpg?w=740"},
+"name": "Englishtrain",
+"city": "sumgait",
+"price": "95",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/hand-drawn-english-book-background_23-2149483336.jpg?t=st=1717848272~exp=1717851872~hmac=692ccd28e5360d16bb937a14a65876e6d7d153cba86010af8995bd71274274b2&w=740"},
+"name": "BFC",
+"city": "Baku",
+"price": "190",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-photo/top-view-hands-holding-english-book_52683-86030.jpg?t=st=1717848909~exp=1717852509~hmac=a29822dd6ff1d57a9221a588e3fb744589df70f394194ae5a4f6c2a496f079e3&w=360"},
+"name": "JalaEdu",
+"city": "Sumgait",
+"price": "100-150",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/flat-design-english-school-logo-template_23-2149487412.jpg?t=st=1717848767~exp=1717852367~hmac=6e2553a005cf05a7c1bd91ebebf45ded7783c7f589524af7f0daf649b9bff496&w=740"},
+"name": "Balance",
+"city": "Baku",
+"price": "55",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+}, {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/english-book-illustration-design_23-2149509019.jpg?t=st=1717849077~exp=1717852677~hmac=6e835c0f38b60561dea9825285f9585837289765c0adcb2356c551415667cc09&w=740"},
+  "name": "Edulance",
+  "city": "Baku",
+  "price": "100-150",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+  
+} ,
+
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/flat-design-english-school-illustration_23-2149483505.jpg?t=st=1717849110~exp=1717852710~hmac=1e7a2c42d4f641fd00a6f20c79a57ffdbcf75504f57793761c3ab1af63118ee2&w=740"},
+"name": "English-general",
+"city": "Baku",
+"price": "90",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+
+} ,
+
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/hand-drawn-english-book-background_23-2149483336.jpg?t=st=1717848272~exp=1717851872~hmac=692ccd28e5360d16bb937a14a65876e6d7d153cba86010af8995bd71274274b2&w=740"},
+"name": "bridge academy",
+"city": "Baku",
+"price": "100",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/premium-vector/flat-design-english-school-logo-design_23-2149483333.jpg?w=740"},
+"name": "Englishtrain",
+"city": "sumgait",
+"price": "95",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/flat-design-english-school-illustration_23-2149483505.jpg?t=st=1717849110~exp=1717852710~hmac=1e7a2c42d4f641fd00a6f20c79a57ffdbcf75504f57793761c3ab1af63118ee2&w=740"},
+"name": "BFC",
+"city": "Baku",
+"price": "190",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/hand-drawn-english-school-illustration_23-2149491656.jpg?t=st=1717848945~exp=1717852545~hmac=acfcdc330ebd3818252532d556dafcc9bdf53cca7d4464457552ff082ae3f0b8&w=740"},
+"name": "JalaEdu",
+"city": "Sumgait",
+"price": "100-150",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/hand-drawn-english-book-background_23-2149483336.jpg?t=st=1717848272~exp=1717851872~hmac=692ccd28e5360d16bb937a14a65876e6d7d153cba86010af8995bd71274274b2&w=740"},
+"name": "Balance",
+"city": "Baku",
+"price": "55",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+}, {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/top-view-hands-holding-english-book_52683-86030.jpg?t=st=1717848909~exp=1717852509~hmac=a29822dd6ff1d57a9221a588e3fb744589df70f394194ae5a4f6c2a496f079e3&w=360"},
+  "name": "Edulance",
+  "city": "Baku",
+  "price": "100-150",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+  
+} ,
+
+{
+"profile_picture": {
+"url": "https://img.freepik.com/premium-vector/flat-design-english-school-logo-design_23-2149483333.jpg?w=740"},
+"name": "English-general",
+"city": "Baku",
+"price": "90",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+
+} ,
+
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/flat-design-english-school-illustration_23-2149483505.jpg?t=st=1717849110~exp=1717852710~hmac=1e7a2c42d4f641fd00a6f20c79a57ffdbcf75504f57793761c3ab1af63118ee2&w=740"},
+"name": "bridge academy",
+"city": "Baku",
+"price": "100",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/hand-drawn-english-school-illustration_23-2149491656.jpg?t=st=1717848945~exp=1717852545~hmac=acfcdc330ebd3818252532d556dafcc9bdf53cca7d4464457552ff082ae3f0b8&w=740"},
+"name": "Englishtrain",
+"city": "sumgait",
+"price": "95",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-photo/top-view-hands-holding-english-book_52683-86030.jpg?t=st=1717848909~exp=1717852509~hmac=a29822dd6ff1d57a9221a588e3fb744589df70f394194ae5a4f6c2a496f079e3&w=360"},
+"name": "BFC",
+"city": "Baku",
+"price": "190",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/flat-design-english-logo-design_23-2149512646.jpg?t=st=1717848729~exp=1717852329~hmac=c4ab81b8830e54ff99c8b696a515039320ba8208d71086850a050ef4ad2a930a&w=740"},
+"name": "JalaEdu",
+"city": "Sumgait",
+"price": "100-150",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-vector/hand-drawn-english-school-illustration_23-2149491656.jpg?t=st=1717848945~exp=1717852545~hmac=acfcdc330ebd3818252532d556dafcc9bdf53cca7d4464457552ff082ae3f0b8&w=740"},
+"name": "Balance",
+"city": "Baku",
+"price": "55",
+"course-type":"english",
+"gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+
+},
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/flat-design-english-logo-design_23-2149512646.jpg?t=st=1717848729~exp=1717852329~hmac=c4ab81b8830e54ff99c8b696a515039320ba8208d71086850a050ef4ad2a930a&w=740"},
+  "name": "Balance",
+  "city": "Baku",
+  "price": "55",
+  "course-type":"english",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+  
+  },
+ 
+  
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Matrix",
+  "city": "Baku",
+ "price": "165",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "145",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "185",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061967.jpg?t=st=1717962697~exp=1717966297~hmac=e3b9b7f5ffe9334a5fb4bcba85cc20814045652dab2e4208067489ba0f808196&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "210",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "120",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ } ,
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+ "price": "165",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "145",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "185",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "210",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "120",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "90",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Millisoft",
+  "city": "Baku",
+ "price": "155",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "155",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg?t=st=1717962995~exp=1717966595~hmac=6e2022807d5af2d1435023ca44a0a2ae5c1e75544d27f04f1f4efdb94987e099&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "130",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/standard-quality-control-concept-m_23-2150041859.jpg?t=st=1717963022~exp=1717966622~hmac=8af203eb6fe3bb2a364ee3d7a83b0c5b7eafcef36c413e9f6f7d5b356b5b7453&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/standard-quality-control-collage-concept_23-2149595831.jpg?t=st=1717963182~exp=1717966782~hmac=2c4e4664cd4a34fcbb799d67d8819545724bf0910d486b668efe3151b7dcbdf5&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/isometric-data-security-background_52683-1095.jpg?t=st=1717963211~exp=1717966811~hmac=8432d88575d8be2eb4dc53ce6eaa54d47765e760c7683d0b8ac7e29ae31a3203&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "150",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+ "price": "190",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/selective-focus-african-american-it-employee-with-headset-working-remote-from-home-website-design-using-programming-technologies-computer-programmer-man-coding-digital-business-server_482257-30394.jpg?t=st=1717963277~exp=1717966877~hmac=7fdccd54489c7c9d18ae6416536f43b56a6f6e6f8843f8742eb1cc01f9f1cb5c&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "135",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/gradient-vpn-illustration_23-2149247170.jpg?t=st=1717963310~exp=1717966910~hmac=9093bb3da8450e7d53cd274294ec6a496c028a5123b9b1da0ee5ff2dbfb145bc&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/data-protection-concept_1284-10819.jpg?t=st=1717963354~exp=1717966954~hmac=52a1630b6f89df49d1fb90cc8dcec150c5fd7cc8b593fa6107f9f59fa05a7dfb&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "350",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?t=st=1717963398~exp=1717966998~hmac=1e485465ad0ec7aad61cf8f9dd78eb72358ff460c4a67fc51a322b43a914f6a3&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "140",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901780.jpg?t=st=1717963442~exp=1717967042~hmac=4266b14bd04e045b01072945741fc7e5a8513af17d27d263deb50bbc5528dc00&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-hacker_23-2150061984.jpg?t=st=1717963478~exp=1717967078~hmac=29b064d98cd57562287f549c469479a1185b9d19d50e262f8db4145a0594c1aa&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+ "price": "450",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?t=st=1717963511~exp=1717967111~hmac=11ded91ca2b508a2b63effef21cdc6385650fba8eb321c3afad1b599630d892e&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "550",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "400",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "290",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "800",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/person-typing-modern-laptop_23-2148346167.jpg?t=st=1717963628~exp=1717967228~hmac=67a309e5a7904d2681717559383fb9228b0018cafc69cd80ecca92e864e8509f&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "95",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/premium-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg?w=740"},
+  "name": "Handex",
+  "city": "Baku",
+ "price": "170",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "175",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/top-view-unrecognizable-hacker-performing-cyberattack-night_1098-18706.jpg?t=st=1717963789~exp=1717967389~hmac=e829c0f2e3799c8201dfcb1a10be912afa2857b2d0700f8a76f26967818df1eb&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "CyberIn",
+  "city": "Baku",
+  "price": "300",
+  "course-type":"Kiber Təhlükəsizlik",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+} ,
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "100",
+ "course-type":"IT Helpdesk",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+   
+},
+{
+"profile_picture": {
+ "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+ "name": "Matrix",
+ "city": "Baku",
+"price": "165",
+ "course-type":"Frontend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+     
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "145",
+ "course-type":"Backend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+       
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "170",
+ "course-type":"Network",
+ "gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+         
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "185",
+ "course-type":"Sistem",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061967.jpg?t=st=1717962697~exp=1717966297~hmac=e3b9b7f5ffe9334a5fb4bcba85cc20814045652dab2e4208067489ba0f808196&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "210",
+ "course-type":"Fullstack",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "120",
+ "course-type":"SMM",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+} ,
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "100",
+ "course-type":"IT Helpdesk",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+   
+},
+{
+"profile_picture": {
+ "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+"price": "165",
+ "course-type":"Frontend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+     
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "145",
+ "course-type":"Backend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+       
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "170",
+ "course-type":"Network",
+ "gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+         
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "185",
+ "course-type":"Sistem",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "210",
+ "course-type":"Fullstack",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+ "name": "Matrix",
+ "city": "Baku",
+ "price": "120",
+ "course-type":"SMM",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+ "name": "MilliSoft",
+ "city": "Baku",
+ "price": "90",
+ "course-type":"IT Helpdesk",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+   
+},
+{
+"profile_picture": {
+ "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+ "name": "Millisoft",
+ "city": "Baku",
+"price": "155",
+ "course-type":"Frontend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+     
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+ "name": "MilliSoft",
+ "city": "Baku",
+ "price": "155",
+ "course-type":"Backend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+       
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg?t=st=1717962995~exp=1717966595~hmac=6e2022807d5af2d1435023ca44a0a2ae5c1e75544d27f04f1f4efdb94987e099&w=740"},
+ "name": "MilliSoft",
+ "city": "Baku",
+ "price": "130",
+ "course-type":"Network",
+ "gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+         
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/standard-quality-control-concept-m_23-2150041859.jpg?t=st=1717963022~exp=1717966622~hmac=8af203eb6fe3bb2a364ee3d7a83b0c5b7eafcef36c413e9f6f7d5b356b5b7453&w=740"},
+ "name": "MilliSoft",
+ "city": "Baku",
+ "price": "190",
+ "course-type":"Sistem",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+ "name": "MilliSoft",
+ "city": "Baku",
+ "price": "200",
+ "course-type":"Fullstack",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/standard-quality-control-collage-concept_23-2149595831.jpg?t=st=1717963182~exp=1717966782~hmac=2c4e4664cd4a34fcbb799d67d8819545724bf0910d486b668efe3151b7dcbdf5&w=740"},
+ "name": "MilliSoft",
+ "city": "Baku",
+ "price": "100",
+ "course-type":"SMM",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-vector/isometric-data-security-background_52683-1095.jpg?t=st=1717963211~exp=1717966811~hmac=8432d88575d8be2eb4dc53ce6eaa54d47765e760c7683d0b8ac7e29ae31a3203&w=740"},
+ "name": "Brimston",
+ "city": "Baku",
+ "price": "150",
+ "course-type":"IT Helpdesk",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+   
+},
+{
+"profile_picture": {
+ "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+ "name": "Brimston",
+ "city": "Baku",
+"price": "190",
+ "course-type":"Frontend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+     
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-photo/selective-focus-african-american-it-employee-with-headset-working-remote-from-home-website-design-using-programming-technologies-computer-programmer-man-coding-digital-business-server_482257-30394.jpg?t=st=1717963277~exp=1717966877~hmac=7fdccd54489c7c9d18ae6416536f43b56a6f6e6f8843f8742eb1cc01f9f1cb5c&w=740"},
+ "name": "Brimston",
+ "city": "Baku",
+ "price": "135",
+ "course-type":"Backend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+       
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-vector/gradient-vpn-illustration_23-2149247170.jpg?t=st=1717963310~exp=1717966910~hmac=9093bb3da8450e7d53cd274294ec6a496c028a5123b9b1da0ee5ff2dbfb145bc&w=740"},
+ "name": "Brimston",
+ "city": "Baku",
+ "price": "200",
+ "course-type":"Network",
+ "gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+         
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+ "name": "Brimston",
+ "city": "Baku",
+ "price": "190",
+ "course-type":"Sistem",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-vector/data-protection-concept_1284-10819.jpg?t=st=1717963354~exp=1717966954~hmac=52a1630b6f89df49d1fb90cc8dcec150c5fd7cc8b593fa6107f9f59fa05a7dfb&w=740"},
+ "name": "Brimston",
+ "city": "Baku",
+ "price": "350",
+ "course-type":"Fullstack",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?t=st=1717963398~exp=1717966998~hmac=1e485465ad0ec7aad61cf8f9dd78eb72358ff460c4a67fc51a322b43a914f6a3&w=740"},
+ "name": "Brimston",
+ "city": "Baku",
+ "price": "140",
+ "course-type":"SMM",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901780.jpg?t=st=1717963442~exp=1717967042~hmac=4266b14bd04e045b01072945741fc7e5a8513af17d27d263deb50bbc5528dc00&w=740"},
+ "name": "Code Academy",
+ "city": "Baku",
+ "price": "170",
+ "course-type":"IT Helpdesk",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+   
+},
+{
+"profile_picture": {
+ "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-hacker_23-2150061984.jpg?t=st=1717963478~exp=1717967078~hmac=29b064d98cd57562287f549c469479a1185b9d19d50e262f8db4145a0594c1aa&w=740"},
+ "name": "Code Academy",
+ "city": "Baku",
+"price": "450",
+ "course-type":"Frontend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+     
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?t=st=1717963511~exp=1717967111~hmac=11ded91ca2b508a2b63effef21cdc6385650fba8eb321c3afad1b599630d892e&w=740"},
+ "name": "Code Academy",
+ "city": "Baku",
+ "price": "550",
+ "course-type":"Backend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+       
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+ "name": "Code Academy",
+ "city": "Baku",
+ "price": "400",
+ "course-type":"Network",
+ "gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+         
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+ "name": "Code Academy",
+ "city": "Baku",
+ "price": "290",
+ "course-type":"Sistem",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+ "name": "Code Academy",
+ "city": "Baku",
+ "price": "800",
+ "course-type":"Fullstack",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/person-typing-modern-laptop_23-2148346167.jpg?t=st=1717963628~exp=1717967228~hmac=67a309e5a7904d2681717559383fb9228b0018cafc69cd80ecca92e864e8509f&w=740"},
+ "name": "Code Academy",
+ "city": "Baku",
+ "price": "190",
+ "course-type":"SMM",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+ "name": "Handex",
+ "city": "Baku",
+ "price": "95",
+ "course-type":"IT Helpdesk",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+   
+},
+{
+"profile_picture": {
+ "url": "https://img.freepik.com/premium-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg?w=740"},
+ "name": "Handex",
+ "city": "Baku",
+"price": "170",
+ "course-type":"Frontend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+     
+},
+{
+"profile_picture": {
+"url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+ "name": "Handex",
+ "city": "Baku",
+ "price": "170",
+ "course-type":"Backend",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+       
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+ "name": "Handex",
+ "city": "Baku",
+ "price": "190",
+ "course-type":"Network",
+ "gmail":"edulance@gmail.com",
+"phone-number":"070-985-13-05"
+         
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+ "name": "Handex",
+ "city": "Baku",
+ "price": "175",
+ "course-type":"Sistem",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/top-view-unrecognizable-hacker-performing-cyberattack-night_1098-18706.jpg?t=st=1717963789~exp=1717967389~hmac=e829c0f2e3799c8201dfcb1a10be912afa2857b2d0700f8a76f26967818df1eb&w=360"},
+ "name": "Handex",
+ "city": "Baku",
+ "price": "200",
+ "course-type":"Fullstack",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+ "name": "Handex",
+ "city": "Baku",
+ "price": "100",
+ "course-type":"SMM",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+           
+},
+{
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+ "name": "CyberIn",
+ "city": "Baku",
+ "price": "300",
+ "course-type":"Kiber Təhlükəsizlik",
+ "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+   
+},
+ 
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Matrix",
+  "city": "Baku",
+ "price": "165",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "145",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "185",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061967.jpg?t=st=1717962697~exp=1717966297~hmac=e3b9b7f5ffe9334a5fb4bcba85cc20814045652dab2e4208067489ba0f808196&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "210",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "120",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ } ,
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+ "price": "165",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "145",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "185",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "210",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "120",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "90",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Millisoft",
+  "city": "Baku",
+ "price": "155",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "155",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg?t=st=1717962995~exp=1717966595~hmac=6e2022807d5af2d1435023ca44a0a2ae5c1e75544d27f04f1f4efdb94987e099&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "130",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/standard-quality-control-concept-m_23-2150041859.jpg?t=st=1717963022~exp=1717966622~hmac=8af203eb6fe3bb2a364ee3d7a83b0c5b7eafcef36c413e9f6f7d5b356b5b7453&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/standard-quality-control-collage-concept_23-2149595831.jpg?t=st=1717963182~exp=1717966782~hmac=2c4e4664cd4a34fcbb799d67d8819545724bf0910d486b668efe3151b7dcbdf5&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/isometric-data-security-background_52683-1095.jpg?t=st=1717963211~exp=1717966811~hmac=8432d88575d8be2eb4dc53ce6eaa54d47765e760c7683d0b8ac7e29ae31a3203&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "150",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+ "price": "190",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/selective-focus-african-american-it-employee-with-headset-working-remote-from-home-website-design-using-programming-technologies-computer-programmer-man-coding-digital-business-server_482257-30394.jpg?t=st=1717963277~exp=1717966877~hmac=7fdccd54489c7c9d18ae6416536f43b56a6f6e6f8843f8742eb1cc01f9f1cb5c&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "135",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/gradient-vpn-illustration_23-2149247170.jpg?t=st=1717963310~exp=1717966910~hmac=9093bb3da8450e7d53cd274294ec6a496c028a5123b9b1da0ee5ff2dbfb145bc&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/data-protection-concept_1284-10819.jpg?t=st=1717963354~exp=1717966954~hmac=52a1630b6f89df49d1fb90cc8dcec150c5fd7cc8b593fa6107f9f59fa05a7dfb&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "350",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?t=st=1717963398~exp=1717966998~hmac=1e485465ad0ec7aad61cf8f9dd78eb72358ff460c4a67fc51a322b43a914f6a3&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "140",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901780.jpg?t=st=1717963442~exp=1717967042~hmac=4266b14bd04e045b01072945741fc7e5a8513af17d27d263deb50bbc5528dc00&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-hacker_23-2150061984.jpg?t=st=1717963478~exp=1717967078~hmac=29b064d98cd57562287f549c469479a1185b9d19d50e262f8db4145a0594c1aa&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+ "price": "450",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?t=st=1717963511~exp=1717967111~hmac=11ded91ca2b508a2b63effef21cdc6385650fba8eb321c3afad1b599630d892e&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "550",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "400",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "290",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "800",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/person-typing-modern-laptop_23-2148346167.jpg?t=st=1717963628~exp=1717967228~hmac=67a309e5a7904d2681717559383fb9228b0018cafc69cd80ecca92e864e8509f&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "95",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/premium-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg?w=740"},
+  "name": "Handex",
+  "city": "Baku",
+ "price": "170",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "175",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/top-view-unrecognizable-hacker-performing-cyberattack-night_1098-18706.jpg?t=st=1717963789~exp=1717967389~hmac=e829c0f2e3799c8201dfcb1a10be912afa2857b2d0700f8a76f26967818df1eb&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "CyberIn",
+  "city": "Baku",
+  "price": "300",
+  "course-type":"Kiber Təhlükəsizlik",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ 
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Matrix",
+  "city": "Baku",
+ "price": "165",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "145",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "185",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061967.jpg?t=st=1717962697~exp=1717966297~hmac=e3b9b7f5ffe9334a5fb4bcba85cc20814045652dab2e4208067489ba0f808196&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "210",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "120",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ } ,
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+ "price": "165",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "145",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "185",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "210",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "120",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "90",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Millisoft",
+  "city": "Baku",
+ "price": "155",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "155",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg?t=st=1717962995~exp=1717966595~hmac=6e2022807d5af2d1435023ca44a0a2ae5c1e75544d27f04f1f4efdb94987e099&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "130",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/standard-quality-control-concept-m_23-2150041859.jpg?t=st=1717963022~exp=1717966622~hmac=8af203eb6fe3bb2a364ee3d7a83b0c5b7eafcef36c413e9f6f7d5b356b5b7453&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/standard-quality-control-collage-concept_23-2149595831.jpg?t=st=1717963182~exp=1717966782~hmac=2c4e4664cd4a34fcbb799d67d8819545724bf0910d486b668efe3151b7dcbdf5&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/isometric-data-security-background_52683-1095.jpg?t=st=1717963211~exp=1717966811~hmac=8432d88575d8be2eb4dc53ce6eaa54d47765e760c7683d0b8ac7e29ae31a3203&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "150",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+ "price": "190",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/selective-focus-african-american-it-employee-with-headset-working-remote-from-home-website-design-using-programming-technologies-computer-programmer-man-coding-digital-business-server_482257-30394.jpg?t=st=1717963277~exp=1717966877~hmac=7fdccd54489c7c9d18ae6416536f43b56a6f6e6f8843f8742eb1cc01f9f1cb5c&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "135",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/gradient-vpn-illustration_23-2149247170.jpg?t=st=1717963310~exp=1717966910~hmac=9093bb3da8450e7d53cd274294ec6a496c028a5123b9b1da0ee5ff2dbfb145bc&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/data-protection-concept_1284-10819.jpg?t=st=1717963354~exp=1717966954~hmac=52a1630b6f89df49d1fb90cc8dcec150c5fd7cc8b593fa6107f9f59fa05a7dfb&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "350",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?t=st=1717963398~exp=1717966998~hmac=1e485465ad0ec7aad61cf8f9dd78eb72358ff460c4a67fc51a322b43a914f6a3&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "140",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901780.jpg?t=st=1717963442~exp=1717967042~hmac=4266b14bd04e045b01072945741fc7e5a8513af17d27d263deb50bbc5528dc00&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-hacker_23-2150061984.jpg?t=st=1717963478~exp=1717967078~hmac=29b064d98cd57562287f549c469479a1185b9d19d50e262f8db4145a0594c1aa&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+ "price": "450",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?t=st=1717963511~exp=1717967111~hmac=11ded91ca2b508a2b63effef21cdc6385650fba8eb321c3afad1b599630d892e&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "550",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "400",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "290",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "800",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/person-typing-modern-laptop_23-2148346167.jpg?t=st=1717963628~exp=1717967228~hmac=67a309e5a7904d2681717559383fb9228b0018cafc69cd80ecca92e864e8509f&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "95",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/premium-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg?w=740"},
+  "name": "Handex",
+  "city": "Baku",
+ "price": "170",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "175",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/top-view-unrecognizable-hacker-performing-cyberattack-night_1098-18706.jpg?t=st=1717963789~exp=1717967389~hmac=e829c0f2e3799c8201dfcb1a10be912afa2857b2d0700f8a76f26967818df1eb&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "CyberIn",
+  "city": "Baku",
+  "price": "300",
+  "course-type":"Kiber Təhlükəsizlik",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ 
+{
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Matrix",
+  "city": "Baku",
+ "price": "165",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "145",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "185",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061967.jpg?t=st=1717962697~exp=1717966297~hmac=e3b9b7f5ffe9334a5fb4bcba85cc20814045652dab2e4208067489ba0f808196&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "210",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "120",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ } ,
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+ "price": "165",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "145",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/side-view-woman-working-laptop_23-2148575320.jpg?t=st=1717962538~exp=1717966138~hmac=d1bb87e0058b8425ebccdf9f013309910e4f4741217d12104438e2ad6cdbad7c&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "185",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "210",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Matrix",
+  "city": "Baku",
+  "price": "120",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "90",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Millisoft",
+  "city": "Baku",
+ "price": "155",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "155",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg?t=st=1717962995~exp=1717966595~hmac=6e2022807d5af2d1435023ca44a0a2ae5c1e75544d27f04f1f4efdb94987e099&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "130",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/standard-quality-control-concept-m_23-2150041859.jpg?t=st=1717963022~exp=1717966622~hmac=8af203eb6fe3bb2a364ee3d7a83b0c5b7eafcef36c413e9f6f7d5b356b5b7453&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/standard-quality-control-collage-concept_23-2149595831.jpg?t=st=1717963182~exp=1717966782~hmac=2c4e4664cd4a34fcbb799d67d8819545724bf0910d486b668efe3151b7dcbdf5&w=740"},
+  "name": "MilliSoft",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/isometric-data-security-background_52683-1095.jpg?t=st=1717963211~exp=1717966811~hmac=8432d88575d8be2eb4dc53ce6eaa54d47765e760c7683d0b8ac7e29ae31a3203&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "150",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+ "price": "190",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/selective-focus-african-american-it-employee-with-headset-working-remote-from-home-website-design-using-programming-technologies-computer-programmer-man-coding-digital-business-server_482257-30394.jpg?t=st=1717963277~exp=1717966877~hmac=7fdccd54489c7c9d18ae6416536f43b56a6f6e6f8843f8742eb1cc01f9f1cb5c&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "135",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/gradient-vpn-illustration_23-2149247170.jpg?t=st=1717963310~exp=1717966910~hmac=9093bb3da8450e7d53cd274294ec6a496c028a5123b9b1da0ee5ff2dbfb145bc&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-vector/data-protection-concept_1284-10819.jpg?t=st=1717963354~exp=1717966954~hmac=52a1630b6f89df49d1fb90cc8dcec150c5fd7cc8b593fa6107f9f59fa05a7dfb&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "350",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?t=st=1717963398~exp=1717966998~hmac=1e485465ad0ec7aad61cf8f9dd78eb72358ff460c4a67fc51a322b43a914f6a3&w=740"},
+  "name": "Brimston",
+  "city": "Baku",
+  "price": "140",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901780.jpg?t=st=1717963442~exp=1717967042~hmac=4266b14bd04e045b01072945741fc7e5a8513af17d27d263deb50bbc5528dc00&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/html-css-collage-concept-with-hacker_23-2150061984.jpg?t=st=1717963478~exp=1717967078~hmac=29b064d98cd57562287f549c469479a1185b9d19d50e262f8db4145a0594c1aa&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+ "price": "450",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?t=st=1717963511~exp=1717967111~hmac=11ded91ca2b508a2b63effef21cdc6385650fba8eb321c3afad1b599630d892e&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "550",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "400",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "290",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/glowing-laptop-communicates-globally-digital-display-generated-by-ai_188544-18534.jpg?t=st=1717962928~exp=1717966528~hmac=2490343f211033b9e3539a394e35d9d4e7fdb6f1d9a545ec66d4e71cd618c55f&w=826"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "800",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/person-typing-modern-laptop_23-2148346167.jpg?t=st=1717963628~exp=1717967228~hmac=67a309e5a7904d2681717559383fb9228b0018cafc69cd80ecca92e864e8509f&w=740"},
+  "name": "Code Academy",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/audio-headset-used-by-call-center-agents-help-clients-telecommunication-with-technology-empty-customer-service-workstation-with-headphones-computers-modern-gadgets_482257-40834.jpg?t=st=1717962467~exp=1717966067~hmac=310e079dfcab2759f2e74d53e8bfefc9898c4ec2203dcd8427ae28fad35cb853&w=826"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "95",
+  "course-type":"IT Helpdesk",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+},
+ {
+ "profile_picture": {
+  "url": "https://img.freepik.com/premium-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg?w=740"},
+  "name": "Handex",
+  "city": "Baku",
+ "price": "170",
+  "course-type":"Frontend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+      
+ },
+ {
+ "profile_picture": {
+ "url": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1717962664~exp=1717966264~hmac=9ebcf1f038d6d604dd365f7b11f000c06a556f2319b3f75ab0024e057cd8a541&w=740"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "170",
+  "course-type":"Backend",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+        
+  },
+  {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1717963538~exp=1717967138~hmac=578de53f86c52024eaed2824201bbff72056625fdf3a0e1476d582d6ed5c3c4e&w=740"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "190",
+  "course-type":"Network",
+  "gmail":"edulance@gmail.com",
+ "phone-number":"070-985-13-05"
+          
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252478.jpg?t=st=1717963071~exp=1717966671~hmac=9245490d2e6b075bc5e389669cab862743bcebee957bae8e8c9901cc3b043c42&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "175",
+  "course-type":"Sistem",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/top-view-unrecognizable-hacker-performing-cyberattack-night_1098-18706.jpg?t=st=1717963789~exp=1717967389~hmac=e829c0f2e3799c8201dfcb1a10be912afa2857b2d0700f8a76f26967818df1eb&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "200",
+  "course-type":"Fullstack",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/close-up-business-male-working_23-2148446246.jpg?t=st=1717962497~exp=1717966097~hmac=6f5ada751cfd1efe644aea28b071c3f54a292c6ffaaf7d8e19198300524e9043&w=360"},
+  "name": "Handex",
+  "city": "Baku",
+  "price": "100",
+  "course-type":"SMM",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+            
+ },
+ {
+  "profile_picture": {
+  "url": "https://img.freepik.com/free-photo/confident-call-center-operator-talking-with-client_74855-4059.jpg?t=st=1717962615~exp=1717966215~hmac=47a855a513d5e3c9c182e5dcea61244f81cd0738ebfb7dd5708f1edaa9dcdb8b&w=740"},
+  "name": "CyberIn",
+  "city": "Baku",
+  "price": "300",
+  "course-type":"Kiber Təhlükəsizlik",
+  "gmail":"edulance@gmail.com",
+  "phone-number":"070-985-13-05"
+    
+}
+  ]
+ 
